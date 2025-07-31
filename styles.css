@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
 * {
@@ -164,3 +165,171 @@ body {
 #Prompt::-webkit-scrollbar-thumb:hover {
   border: 2px solid transparent;
 }
+=======
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Outfit;
+}
+
+body {
+  background-image: radial-gradient(#e0e0e0 1px, transparent 0);
+  background-size: 20px 20px;
+  box-sizing: border-box;
+  background-color: rgb(64, 125, 135);
+}
+
+#motto {
+  background-color: rgb(64, 125, 135);
+  padding: 10px;
+
+  font-size: 20px;
+  color: white;
+}
+
+#Submit {
+  margin: 0;
+  color: white;
+  font-size: 18px;
+
+  border: none;
+  background-color: rgb(15, 138, 157);
+  height: 35px;
+  width: 120px;
+  position: absolute;
+  border-radius: 5px;
+  right: 22px;
+  bottom: 20px;
+  transition: all 0.2s ease-in-out;
+}
+
+#Submit:hover {
+  border: 2px solid black;
+  cursor: pointer;
+  color: black;
+  background-color: rgb(180, 169, 169);
+}
+
+#Chatoutput {
+  font-size: 20px;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(42, 209, 235);
+  padding: 10px;
+  height: 100%;
+  width: 90%;
+  max-width: 900px;
+  line-height: 40px;
+  white-space: pre-wrap;
+  resize: none;
+  outline: none;
+}
+
+#Chatoutput::-webkit-scrollbar {
+  color: rgb(255, 255, 255);
+}
+
+#Chatoutput::-webkit-scrollbar-thumb {
+  background-color: rgb(196, 200, 201);
+}
+
+#Chatoutput::placeholder {
+  color: rgb(0, 0, 0);
+}
+
+.input-container {
+  height: 91vh;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#whole {
+  background-color: rgb(77, 155, 168);
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+#whole #title {
+  color: white;
+
+  /* border: 2px solid; */
+}
+
+#logoai {
+  margin: 3px 10px;
+  width: 120px;
+  height: 35px;
+}
+
+.others {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  /* border: 2px solid; */
+}
+
+.others a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin: 2px;
+  font-size: 15px;
+  align-items: center;
+}
+
+.others a:hover {
+  text-decoration: underline;
+  /* border: 2px solid;*/
+}
+
+.prompt-wrap {
+  margin-top: 45px;
+  position: relative;
+  width: 92%;
+  max-width: 925px;
+}
+
+#Prompt {
+  height: 150px;
+  width: 100%;
+  border-radius: 1rem;
+  padding: 15px;
+  box-sizing: border-box;
+  border: 3px solid rgb(42, 209, 235);
+  font-size: 12px;
+  resize: none;
+  overflow: auto;
+
+  font-size: 20px;
+}
+#Prompt:focus {
+  outline: none;
+}
+#Prompt::-webkit-scrollbar {
+  width: 8px; /* Set visible width */
+}
+#Prompt::-webkit-scrollbar-track {
+  border: 1px solid rgb(73, 148, 160);
+  background: white;
+  border-radius: 7px; /* Light background for track */
+}
+#Prompt::-webkit-scrollbar-thumb {
+  border: 2px solid transparent;
+  cursor: default;
+  background: #17cdff; /* Visible thumb color */
+  border-radius: 10px;
+  background-clip: content-box;
+}
+
+#Prompt::-webkit-scrollbar-thumb:hover {
+  border: 2px solid transparent;
+}
+>>>>>>> 4985b0bb7a4a1a675de905d04e0295798d005b9a
