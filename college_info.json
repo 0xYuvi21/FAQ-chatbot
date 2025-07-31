@@ -1,0 +1,276 @@
+{
+  "srm_mcet": {
+    "college_name": "SRM Madurai College of Engineering and Technology",
+    "established_year": 2023,
+    "affiliation": "Anna University, Chennai",
+    "approval": "AICTE",
+    "location": {
+      "address": "Chinthamani Nedungulam Road, Pottapalayam, Sivaganga District, Tamil Nadu, 630612",
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "contact": {
+      "phone_numbers": ["+91 78457 75188", "+91 78457 76188"],
+      "email": "infomcet@srmgroup.co.in",
+      "website": "https://srmmcet.edu.in/"
+    },
+    "programs_offered": {
+      "undergraduate": [
+        "B.E. Civil Engineering",
+        "B.E. Mechanical Engineering",
+        "B.E. Electrical & Electronics Engineering",
+        "B.E. Electronics & Communication Engineering",
+        "B.E. Computer Science and Engineering",
+        "B.E. Computer Science and Engineering (Cyber Security)",
+        "B.E. Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+        "B.Tech Information Technology",
+        "B.Tech Artificial Intelligence and Data Science"
+      ],
+      "postgraduate": [
+        "M.E. VLSI Design",
+        "M.E. Engineering Design",
+        "Master of Business Administration (MBA)"
+      ]
+    },
+    "departments": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical & Electronics Engineering",
+      "Electronics & Communication Engineering",
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "Cyber Security",
+      "MBA"
+    ],
+    "fees_structure": {
+      "B.E./B.Tech": "₹1,45,000 per annum",
+      "M.E.": "₹50,000 per annum",
+      "MBA": "₹1,30,000 per annum"
+    },
+    "admission_criteria": {
+      "undergraduate": "Based on TNEA counseling and 10+2 marks with Physics, Chemistry, and Mathematics.",
+      "postgraduate": "Based on academic performance and scores in CAT/MAT/XAT/CMAT/ATMA."
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/SRMMadurai/",
+      "instagram": "https://www.instagram.com/srmmadurai/",
+      "linkedin": "https://in.linkedin.com/company/srm-madurai"
+    },
+    "events": [
+      {
+        "title": "2nd College Day Celebration",
+        "date": "2025-05-03",
+        "description": "Celebration of the 2nd College Day at SRM MCET.",
+        "link": "https://srmmcet.edu.in/srm-events/"
+      },
+      {
+        "title": "Recent Trends in Additive Manufacturing",
+        "date": "2025-04-25",
+        "description": "A seminar discussing the latest trends in additive manufacturing.",
+        "link": "https://srmmcet.edu.in/srm-events/"
+      },
+      {
+        "title": "SRM Science Fair 2025",
+        "date": "2025-02-28",
+        "description": "Annual science fair showcasing student projects and innovations.",
+        "link": "https://srmmcet.edu.in/srm-events/"
+      },
+      {
+        "title": "National Level Workshop on Renewable Energy Resources in India",
+        "date": "2025-02-21",
+        "description": "Workshop focusing on renewable energy resources and their applications in India.",
+        "link": "https://srmmcet.edu.in/srm-events/"
+      },
+      {
+        "title": "International Conference - Engineering Horizons: Innovation, Advancements, and Sustainability (ICON: EHIAS’25)",
+        "date": "2025-05-16",
+        "description": "An international conference discussing engineering innovations and sustainability.",
+        "link": "https://srmmcet.edu.in/srm-events/international-conference/"
+      },
+      {
+        "title": "1st College Day & Annual Day",
+        "date": "2024-05-31",
+        "description": "First College Day and Annual Day celebration at SRM MCET.",
+        "link": "https://srmmcet.edu.in/srm-events/1st-college-day-annual-day/"
+      },
+      {
+        "title": "National Conference NCON' 2024",
+        "date": "2024-04-15",
+        "description": "First series of the National Conference NCON’ 2024 organized by SRM MCET.",
+        "link": "https://srmmcet.edu.in/srm-events/april-2024/"
+      },
+      {
+        "title": "Induction Day 2024",
+        "date": "2024-09-14",
+        "description": "Induction Day event marking the beginning of the academic year 2024-25.",
+        "link": "https://srmmcet.edu.in/srm-events/induction-day-2024/"
+      },
+      {
+        "title": "TECHXPLOSION'24",
+        "date": "2024-10-15",
+        "description": "State-Level Technical Event held in memory of Dr. A.P.J. Abdul Kalam.",
+        "link": "https://srmmcet.edu.in/srm-events/techxplosion24/"
+      },
+      {
+        "title": "Zura 24",
+        "date": "2024-06-01",
+        "description": "A cultural event with music party, dance and fashion show, and singing with KPY Bala and DJ Soumya as chief guests for the delightful show",
+        "link": "https://srmmcet.edu.in/srm-events/"
+      }
+    ],
+    "placement": {
+      "title": "Creating Industry Ready Professionals",
+      "assistance": "100% Placement Assistance Assured",
+      "vision": "Connecting Talent with Opportunities",
+      "objectives": [
+        "Creating awareness among students on industry requirements",
+        "Preparing students to meet industry demands",
+        "Imparting soft skills training",
+        "Enriching students with value-added courses"
+      ],
+      "placement_cell": {
+        "description": "The Placement Cell systematically plans and executes activities to prepare students for preferred positions across various domains.",
+        "focus_areas": [
+          "Soft Skills Development",
+          "Personality Development",
+          "Group Discussions",
+          "Domain Knowledge",
+          "Aptitude and Quantitative Skills"
+        ]
+      },
+      "mentorship": {
+        "description": "Senior faculty from each department counsel, train, and guide students for better career opportunities, including higher studies in India and abroad.",
+        "entrepreneurship": {
+          "description": "The Placement Cell collaborates with the Entrepreneurship Development Cell (EDC) to promote self-employment and entrepreneurial skills.",
+          "activities": [
+            "Inviting entrepreneurs to share experiences",
+            "Providing guidance on entrepreneurship",
+            "Encouraging innovative thinking"
+          ]
+        }
+      },
+      "training_programs": {
+        "description": "Various programs are conducted to enhance and elevate students’ career prospects.",
+        "programs": [
+          "Communicative English Training Program",
+          "Basic Grammar Training",
+          "Career Awareness Program",
+          "Coding Training",
+          "Aptitude Test Training",
+          "Group Discussion Practice",
+          "Personal Interview Practice",
+          "Placement Training Program",
+          "Mock Recruitment Program",
+          "Employability Training Camp"
+        ],
+        "competitive_exam_training": [
+          "BEC",
+          "GATE",
+          "TOEFL",
+          "IELTS",
+          "T.I.M.E",
+          "Networking",
+          "Coding",
+          "CAT Coaching",
+          "MAT Coaching",
+          "XAT Coaching",
+          "CMAT Coaching",
+          "ICET Coaching",
+          "IIT Foundation"
+        ]
+      },
+      "industry_collaborations": {
+        "description": "SRM MCET has signed MoUs with leading enterprises to benefit students.",
+        "partners": [
+          "L&T",
+          "Infosys",
+          "Vodafone",
+          "Anna University Incubation Centre"
+        ]
+      }
+    },
+    "clubs_and_activities": {
+      "overview": "SRM MCET offers a diverse range of clubs and associations to foster holistic student development through technical, cultural, environmental, and entrepreneurial engagements.",
+      "categories": {
+        "technical_clubs": [
+          {
+            "name": "Software Evolution Club",
+            "description": "Focuses on software development and innovation."
+          },
+          {
+            "name": "Code Crackers Club",
+            "description": "Enhances coding skills through challenges and workshops."
+          },
+          {
+            "name": "ECLAT Club",
+            "description": "Organizes technical sessions and quizzes to deepen engineering knowledge.",
+            "recent_events": [
+              { "title": "TECH INSIGHT SESSION", "date": "2025-03-22" },
+              { "title": "QUIZ ON TIME AND WORK", "date": "2025-03-08" }
+            ]
+          },
+          {
+            "name": "Energy Club",
+            "description": "Promotes awareness on energy conservation and sustainable practices.",
+            "recent_events": [
+              { "title": "Ideathon On Energy Audit", "date": "2025-03-22" },
+              { "title": "Electric Vehicles Battery Management System Green Energy", "date": "2025-03-08" }
+            ]
+          },
+          {
+            "name": "Techtelligence",
+            "description": "IT department's association focusing on technological advancements.",
+            "recent_events": [
+              { "title": "Tech Bingo", "date": "2025-04-12" },
+              { "title": "Appathon 25", "date": "2025-03-22" }
+            ]
+          },
+          {
+            "name": "Cybria",
+            "description": "CSE department's association emphasizing cybersecurity and software development.",
+            "recent_events": [
+              { "title": "TECH MEME ’25", "date": "2025-04-08" },
+              { "title": "Seminar – UI/UX Design Session", "date": "2024-11-16" }
+            ]
+          },
+          {
+            "name": "ALGOBRIX",
+            "description": "Focuses on data science and artificial intelligence initiatives.",
+            "recent_events": [
+              { "title": "Workshop on Design Thinking", "date": "2025-03-15" },
+              { "title": "OBE Essentials", "date": "2025-02-20" }
+            ]
+          }
+        ],
+        "departmental_associations": [
+          { "name": "Structa Association", "department": "Civil Engineering" },
+          { "name": "Enigmatic Association", "department": "Electronics and Communication Engineering" },
+          { "name": "Ivolt Association", "department": "Electrical and Electronics Engineering" },
+          { "name": "Mech Marvels Association", "department": "Mechanical Engineering" },
+          { "name": "INTELLECTRA Association", "department": "Science and Humanities" }
+        ],
+        "cultural_and_language_clubs": [
+          { "name": "Vaigarai Tamil Mandram", "description": "Celebrates Tamil literature and culture." },
+          { "name": "Expressions Club", "description": "Encourages artistic expressions and creativity." },
+          { "name": "ECO Club", "description": "Focuses on environmental conservation and awareness." },
+          {
+            "name": "Zenith Club",
+            "description": "MBA department's club emphasizing leadership and innovation.",
+            "recent_events": [
+              { "title": "Transforming the Future of Work", "date": "2025-03-26" },
+              { "title": "Seminar – Dealing With Setbacks", "date": "2024-11-26" }
+            ]
+          }
+        ]
+      }
+    },
+    "erp_portal": {
+      "portal_name": "SRM MCET ERP Admission Portal",
+      "url": "https://erpsrm.com/srmhonline/applicationmiet/loginManager/youLogin.jsp",
+      "purpose": "To facilitate the online admission application process."
+    }
+  }
+}
