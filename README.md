@@ -43,9 +43,15 @@ Retrieval-Augmented Generation (RAG): Grounds LLM responses in specific, provide
 
     JavaScript (Fetch API, DOM manipulation)
 
-Prerequisites
+*Prerequisites*
   * Python 3.9+ installed.
 
   * pip (Python package installer).
 
   * A Groq API Key. You can obtain one from Groq Console.
+
+*Clone the repository:*
+
+ git clone https://github.com/0xYuvi21/FAQ-chatbot.git
+ 
+ cd FAQ-chatbot
