@@ -236,4 +236,4 @@ async def chat(msg: Message):
         return {"response": response.json()["choices"][0]["message"]["content"]}
     else:
         return {"error": "Groq API error", "details": response.text}
->>>>>>> 4985b0bb7a4a1a675de905d04e0295798d005b9a
+
